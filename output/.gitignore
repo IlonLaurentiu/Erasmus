@@ -1,0 +1,5 @@
+#ignorado compiling folders
+output/
+build/
+dist/
+bin/
