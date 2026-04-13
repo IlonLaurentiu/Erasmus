@@ -10,6 +10,7 @@ int n,k=10;
     std::uniform_int_distribution<> dist(1, 100);
     int num = dist(gen);
     std::cout << num << std::endl;
+
 do{
     cout << "Introduce el numero a adivinar ";
     cin>>n;
@@ -22,5 +23,5 @@ do{
     cout<<"good, you did it in "<<k<<" moves";
     if(k==0)
     cout<<"you lost"<<endl;
-} while(n!=num);
+} while( n!=num && k!=0 );
 }
