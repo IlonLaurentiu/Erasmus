@@ -1,0 +1,6 @@
+Prompt perfect:
+ 1- Rol, define level of expirience and the expertise of the AI
+ 2- Context , technologie etc.
+ 3- the exact task, what do i need/ be concret
+ 4- Rules, what are the limits
+ 5- output format , final information that we recieve
